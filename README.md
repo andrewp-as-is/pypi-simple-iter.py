@@ -42,6 +42,23 @@ for slug, name in pypi_simple_iter.iter_projects_from_file('/tmp/simple.txt'):
 ...
 ```
 
+`startswith`
+```python
+for slug, name in pypi_simple_iter.iter_projects(startswith='Django'):
+    print(slug,name)
+```
+
+```
+django Django
+django10-enumfield django10-enumfield
+django1-11-zebra django1.11-zebra
+...
+```
+
+#### Links
++   [Simple Index](https://pypi.org/simple/)
++   [Simple Project API](https://warehouse.pypa.io/api-reference/legacy/#simple-project-api)
+
 <p align="center">
     <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
 </p>
