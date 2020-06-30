@@ -1,13 +1,13 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
+
 
 [![](https://img.shields.io/pypi/v/pypi-simple-iter.svg?maxAge=3600)](https://pypi.org/project/pypi-simple-iter/)
 [![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
-[![Travis](https://api.travis-ci.org/andrewp-as-is/pypi-simple-iter.py.svg?branch=master)](https://travis-ci.org/andrewp-as-is/pypi-simple-iter.py/)
+[![](https://github.com/andrewp-as-is/pypi-simple-iter.py/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/pypi-simple-iter.py/actions)
 
-#### Installation
+### Installation
 ```bash
 $ [sudo] pip install pypi-simple-iter
 ```
@@ -60,5 +60,5 @@ django1-11-zebra django1.11-zebra
 +   [Simple Project API](https://warehouse.pypa.io/api-reference/legacy/#simple-project-api)
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>
